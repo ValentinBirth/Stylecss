@@ -1,7 +1,7 @@
 /* Allgemeines Seitenlayout */
 body {
-    color: #f5e6d3; /* heller Beige-Ton für Text */
-    background: #7b0f1a; /* Weinrot */
+    color: #7b0f1a; /* heller Beige-Ton für Text */
+    background: #f5e6d3; /* Weinrot */
     font-size: 16px;
     font-family: "Verdana", "Arial", "Helvetica", sans-serif;
 }
