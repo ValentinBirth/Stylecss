@@ -94,7 +94,7 @@ button:hover {
    ============================================= */
 
 /* 2. GRUNDLEGENDE MOBILE ANPASSUNGEN (ab 768px Breite) */
-@media (max-width: 768px) {
+@media (max-width: 300px) {
     /* --- Layout --- */
     html {
         overflow-x: hidden; /* Verhindert horizontales Scrollen */
